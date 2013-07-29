@@ -1,0 +1,128 @@
+# On branch working
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/MainTopics/finance_export_file_description.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/MainTopics/sola_business_rules.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/1_blk_importsourcepanel.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/1_blk_importspatialpanel.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/add_document.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/add_edit_agents_banks.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/add_file_attachment_existing_document.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/add_file_attachment_new_document.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/add_location.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/add_mortgage.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/add_ownership_details.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/add_parent_property.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/application_details.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/application_for_lease_services.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/application_for_registration_services.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/application_forms.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/application_lifecycle.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/application_search.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/assign_an_application.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/cadastre_change.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/calculate_fees.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/cancel_notarial_bond.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/cancel_power_of_attorney.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/cancel_sublease.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/cancel_withdraw_lapse_application.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/change_boundary.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/change_language.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/change_lessee_name.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/consent_application.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/create_subplot.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/dashboard_and_main_menu.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/dispute_details.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/document_registration.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/document_search.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/edit_an_application.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/endorsement.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/finance_export.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/grant_new_lease.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/ground_rent_exemption.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/import_survey_data.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/lease_details.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/linkProperty.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/link_to_power_of_attorney_and_notarial_bond.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/lodge_new_application.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/login.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/lost_deed.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/map_sale.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/map_viewer.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/mortgage_details.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/mortgage_sublease.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/new_and_vary_sublease.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/notarial_bond.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/party_details.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/party_search.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/perform_cadastre_change.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/perform_redefine_cadastre.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/plan_image_for_digitising.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/print_certified_copy.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/print_location_map.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/property_details.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/property_search.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/record_dispute.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/record_title_survey.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/redefine_cadastre.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/register_lease.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/register_mortgage.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/register_power_of_attorney.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/register_servitude.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/register_sublease.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/renew_lease.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/rrr.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/service_lifecycle.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/servitude_details.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/sublease_details.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/surrender_lease.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/terminate_lease.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/transactioned_document.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/transfer_lease.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/unassign_an_application.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/user_profile.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/vary_lease.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/verify_property_details.html
+#	modified:   common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/view_lodgement_report.html
+#	modified:   clients/swing/desktop/src/main/java/org/sola/clients/swing/desktop/UserProfileForm.form
+#	modified:   clients/swing/desktop/src/main/java/org/sola/clients/swing/desktop/UserProfileForm.java
+#	modified:   clients/swing/desktop/src/main/java/org/sola/clients/swing/desktop/administrative/BaUnitSearchForm.form
+#	modified:   clients/swing/desktop/src/main/java/org/sola/clients/swing/desktop/administrative/DisputePanelForm.form
+#	modified:   clients/swing/desktop/src/main/java/org/sola/clients/swing/desktop/administrative/DisputePanelForm.java
+#	modified:   clients/swing/desktop/src/main/java/org/sola/clients/swing/desktop/administrative/LeasePanel.form
+#	modified:   clients/swing/desktop/src/main/java/org/sola/clients/swing/desktop/administrative/LeasePanel.java
+#	modified:   clients/swing/desktop/src/main/java/org/sola/clients/swing/desktop/administrative/MortgagePanel.form
+#	modified:   clients/swing/desktop/src/main/java/org/sola/clients/swing/desktop/administrative/MortgagePanel.java
+#	modified:   clients/swing/desktop/src/main/java/org/sola/clients/swing/desktop/administrative/PropertyPanel.form
+#	modified:   clients/swing/desktop/src/main/java/org/sola/clients/swing/desktop/administrative/PropertyPanel.java
+#	modified:   clients/swing/desktop/src/main/java/org/sola/clients/swing/desktop/administrative/RightsExportForm.form
+#	modified:   clients/swing/desktop/src/main/java/org/sola/clients/swing/desktop/administrative/RightsExportForm.java
+#	modified:   clients/swing/desktop/src/main/java/org/sola/clients/swing/desktop/party/PartyPanelForm.form
+#	modified:   clients/swing/desktop/src/main/java/org/sola/clients/swing/desktop/party/PartySearchPanelForm.form
+#	modified:   clients/swing/desktop/src/main/java/org/sola/clients/swing/desktop/source/DocumentSearchForm.form
+#	modified:   clients/swing/desktop/src/main/java/org/sola/clients/swing/desktop/source/DocumentSearchForm.java
+#	modified:   clients/swing/desktop/src/main/java/org/sola/clients/swing/desktop/source/PowerOfAttorneyViewForm.form
+#	modified:   clients/swing/desktop/src/main/java/org/sola/clients/swing/desktop/source/PowerOfAttorneyViewForm.java
+#	modified:   clients/swing/desktop/src/main/java/org/sola/clients/swing/desktop/source/TransactionedDocumentsPanel.form
+#	modified:   clients/swing/desktop/src/main/java/org/sola/clients/swing/desktop/source/TransactionedDocumentsPanel.java
+#	modified:   clients/swing/desktop/src/main/resources/org/sola/clients/swing/desktop/Bundle.properties
+#	modified:   clients/swing/desktop/src/main/resources/org/sola/clients/swing/desktop/administrative/Bundle.properties
+#	modified:   clients/swing/desktop/src/main/resources/org/sola/clients/swing/desktop/administrative/Bundle_it_IT.properties
+#	modified:   clients/swing/desktop/src/main/resources/org/sola/clients/swing/desktop/party/Bundle.properties
+#	modified:   clients/swing/desktop/src/main/resources/org/sola/clients/swing/desktop/source/Bundle.properties
+#
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	renamed:    common/help/src/main/resources/org/sola/common/help/defaultlang/howtotopics/transactionedDocument.html -> src/main/resources/org/sola/common/help/defaultlang/howtotopics/transactioned_document.html
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	clients/swing/desktop/src/main/java/org/sola/clients/swing/desktop/administrative/Bundle.properties # Do not git(s) add this path
+#	clients/swing/desktop/src/main/java/org/sola/clients/swing/desktop/source/Bundle.properties # Do not git(s) add this path
+#
+On: (code), common/common, common/rules, common/messaging, services, services/boundary, ../database_lesotho, test:
+  nothing to commit, working directory clean
