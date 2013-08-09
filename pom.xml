@@ -113,9 +113,9 @@
                 <version>2.0</version>                     
             </plugin>
             <plugin>
-                <groupId>com.mycila.maven-license-plugin</groupId>
-                <artifactId>maven-license-plugin</artifactId>
-                <version>1.9.0</version>
+                <groupId>com.mycila</groupId>
+                <artifactId>license-maven-plugin</artifactId>
+                <version>2.2</version>
                 <configuration>
                     <header>./licenses/BSD3-lic.txt</header>
                     <includes>
@@ -130,6 +130,7 @@
                         <exclude>**/JCoordsStatusBarItem.java</exclude> 
                         <exclude>**/JMapStatusBar.java</exclude> 
                         <exclude>**/JRendererStatusBarItem.java</exclude>
+                        <exclude>**/NumberToWords.java</exclude>
                         <!--exclude>**/*.xsd</exclude--> 
                     </excludes>
                     <strictCheck>true</strictCheck>
