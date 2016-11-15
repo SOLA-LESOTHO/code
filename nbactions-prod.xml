@@ -11,6 +11,7 @@
             </goals>
             <properties>
                 <skipTests>true</skipTests>
+                
             </properties>
         </action>
     </actions>
